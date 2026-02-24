@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Weekend milk",
+  "base_artist": "HACHI",
+  "createdAt": "2026-02-24T09:09:06.714360Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Weekend milk",
+      "artist": "HACHI",
+      "has_synced": true,
+      "path": "select/01_Weekend_milk_HACHI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Weekend milk (instrumental)",
+      "artist": "HACHI",
+      "has_synced": true,
+      "path": "select/02_Weekend_milk_(instrumental)_HACHI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Weekend milk",
+      "artist": "HACHI",
+      "has_synced": false,
+      "path": "select/pl_01_Weekend_milk_HACHI.txt"
+    }
+  ]
+}
